@@ -9,6 +9,6 @@ A collection of data analysis, machine learning and data visualization projects.
 
 As in traditional banking, not every Lending Club loan actually gets repaid; some loans go into default. In this situation, the investors who backed the loan lose any principle left outstanding. This project develops a classification model to identify which loans are likely to default using all information provided to investors prior to the loan funding decision. Additionally, it demonstrates that loan screening can be used to reduce risk without reducing an investor's expected rate of return.
 
-### [Predicting Used Car Prices by Features]()
+### [Predicting Used Car Prices by Features](https://github.com/jnees/data-science-projects/tree/master/Predicting%20Car%20Prices%20-%20KNeighbors%20Regression)
 
 This notebook steps through the use of the k-nearest neighbors regressor to predict the listing prices of used automobiles. This technique could be used practically to estimate the actual value of a vehical, or any other product by extension, to either maximize the return on a sale or to find a bargain listing. The dataset used comes from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/automobile).
