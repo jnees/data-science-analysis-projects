@@ -15,6 +15,6 @@ This notebook steps through the use of the k-nearest neighbors regressor to pred
 
 ### [Predicting House Sale Prices](https://github.com/jnees/data-science-projects/tree/master/Predicting%20House%20Sale%20Prices)
 
-Analysis project with the goal of developing a multiple regression model to predict the sale prices of homes using a detailed set of home features. This project requried extensive data cleaning and feature engineering.
+Analysis project with the goal of developing a multiple regression linear model to predict the sale prices of homes using a detailed set of home features. This project requried extensive data cleaning and feature engineering.
 
 The [dataset](https://www.tandfonline.com/doi/abs/10.1080/10691898.2011.11889627) used includes 2930 observations and 80 variables describing homes in Ames, Iowa which sold between 2006 and 2010. A description on how and why it was created can be found here and descriptions of the features in the dataset can be found [here](https://s3.amazonaws.com/dq-content/307/data_description.txt).
