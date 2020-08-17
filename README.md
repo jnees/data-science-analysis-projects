@@ -12,3 +12,5 @@ As in traditional banking, not every Lending Club loan actually gets repaid; som
 ### [Predicting Used Car Prices by Features](https://github.com/jnees/data-science-projects/tree/master/Predicting%20Car%20Prices%20-%20KNeighbors%20Regression)
 
 This notebook steps through the use of the k-nearest neighbors regressor to predict the listing prices of used automobiles. This technique could be used practically to estimate the actual value of a vehical, or any other product by extension, to either maximize the return on a sale or to find a bargain listing. The dataset used comes from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/automobile).
+
+### [Predicting House Sale Prices](https://github.com/jnees/data-science-projects/tree/master/Predicting_House_Sale_Prices)
