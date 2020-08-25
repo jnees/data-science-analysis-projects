@@ -18,3 +18,12 @@ This notebook steps through the use of the k-nearest neighbors regressor to pred
 Analysis project with the goal of developing a multiple regression linear model to predict the sale prices of homes using a detailed set of home features. This project requried extensive data cleaning and feature engineering.
 
 The [dataset](https://www.tandfonline.com/doi/abs/10.1080/10691898.2011.11889627) used includes 2930 observations and 80 variables describing homes in Ames, Iowa which sold between 2006 and 2010. A description on how and why it was created can be found here and descriptions of the features in the dataset can be found [here](https://s3.amazonaws.com/dq-content/307/data_description.txt).
+
+
+### [Forecasting Hourly Bike Rentals - Model Comparison](https://github.com/jnees/data-science-projects/tree/master/Predicting%20Bike%20Rentals)
+
+A comparison of linear regression, decision tree, and random forest models on the forecasts of hourly bike share rentals. 
+
+Forecasting sales at the hourly level for a bike share is a difficult task due to the seasonal and weather dependent nature of the business. Wind, precipitation, and unseasonably cold weather will each impact ridership negatively. It is essential to improve forecasts as much as posible in order to gain operational efficiencies and to make sure that the right number of bikes is available to meet demand. This project demonstrates that moving from Linear Regression to Decision Tree modeling yields significant gains in accuracy and that accuracy can be imporoved upon further through an ensemble method like Random Forest.
+
+The dataset for this forecasting exercise contains 17380 observations of hourly bike share data from Washington, DC. In addition volume data, features include information about the local weather, the rider, and the day. The dataset was compiled by [Hadi Fanaee-T ad the University of Porto](http://www.liaad.up.pt/area/fanaee) and can be downloaded [here](http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset).
